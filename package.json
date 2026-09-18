@@ -13,7 +13,7 @@
     "moonlink.js": "^5.0.0"
   },
   "devDependencies": {
-    "@types/node": "^22.20.2",
+    "@types/node": "^26.5.1",
     "tsx": "^4.19.0",
     "typescript": "^7.0.2"
   }
